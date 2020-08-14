@@ -1,0 +1,7 @@
+group = ["n"; "mean"; "SD"];
+Non_smokers_in_clean_env =  [200; 3.17; 0.74];
+Non_smoker_smoke_env = [200; 2.72; 0.71];
+Light_smokers = [200; 2.63; 0.73];
+Moderate_smokers = [200; 2.29; 0.7];
+Heavy_smokers = [200; 2.12; 0.73];
+
