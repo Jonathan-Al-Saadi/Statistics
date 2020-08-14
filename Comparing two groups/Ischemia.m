@@ -9,4 +9,8 @@ variance_exp = std_error_est^2 * n
 
 %Calculation of F and freedom degrees.
 
+F = variance_exp/variance_int
+
+v_n = 7-1
+v_d = 7*(7-1)
 
